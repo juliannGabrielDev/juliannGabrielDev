@@ -1,5 +1,5 @@
 <img src="github.gif" height="200px" align="right" alt="GIF">
-<h1><b>Hi, I am Julian</b> <img src="Hi.gif" width="25px"></h1>
+<h1><b>Hi, I am Julián</b> <img src="Hi.gif" width="25px"></h1>
 <ul>
 	<li>
 		<a href="https://www.linkedin.com/in/juli%C3%A1n-gabriel-isidro-41a898327" target="_blank"> <img src="linkedin.svg" alt="Linkedin" height="20px"> Julián Alejandro Gabriel Isidro</a>
