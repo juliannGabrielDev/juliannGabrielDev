@@ -20,7 +20,7 @@ I am a developer in training and a Teleinformatics Engineering student at the Un
 ---
 ## My Tech Stack and Tools
 
-### 💻 Programming Languages:
+### 💻 Languages:
 
 <p>
 	<img src="html5.svg" height="32px">
