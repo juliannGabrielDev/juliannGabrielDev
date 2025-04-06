@@ -27,8 +27,8 @@ I am a developer in training and a Teleinformatics Engineering student at the Un
 	<img src="css.svg" height="36px">
 	<img src="javascript.svg" height="36px">
 	<img src="python.svg" height="36px">
-	<img src="java.svg" height="36px">
-	<img src="kotlin.svg" height="36px">
+	<!-- <img src="java.svg" height="36px"> -->
+	<!-- <img src="kotlin.svg" height="36px"> -->
 </p>
 
 ## 🚀 Frameworks:
