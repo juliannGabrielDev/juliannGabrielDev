@@ -31,7 +31,7 @@ I am a developer in training and a Teleinformatics Engineering student at the Un
 	<img src="images/kotlin.svg" height="36px">
 </p>
 
-## 🚀 Frameworks:
+### 🚀 Frameworks:
 
 <p>
 <img src="images/react_light.svg" height="36px">
@@ -39,7 +39,7 @@ I am a developer in training and a Teleinformatics Engineering student at the Un
 <img src="images/django.svg" height="40px">
 </p>
 
-## 🔧 Tools:
+### 🔧 Tools:
 
 <p>
 	<img src="images/figma.svg" height="36px">
