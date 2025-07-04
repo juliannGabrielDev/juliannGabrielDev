@@ -36,6 +36,7 @@ I am a developer in training and a Teleinformatics Engineering student at the Un
 <p>
 <img src="react_light.svg" height="36px">
 <img src="tailwindcss.svg" height="36px">
+<img src="django.svg" height="36px">
 </p>
 
 ## 🔧 Tools:
