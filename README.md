@@ -15,8 +15,6 @@
 	</li>
 </ul>
 
-I am a developer in training and a Teleinformatics Engineering student at the University of Guadalajara. I specialize in front-end development and I'm open to collaborating and continuing to grow in the world of web development.
-
 ---
 ## My Tech Stack and Tools
 
