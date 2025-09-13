@@ -13,6 +13,9 @@
 	<li>
 		<a href="https://www.coursera.org/user/a2dfc341fe9bec1c91be8ab9fe056d1b" target="_blank"> <img src="images/coursera.png" alt="Coursera"  height="20px"> Coursera</a>
 	</li>
+	<li>
+		<a href="https://g.dev/juliannGabrielDev" target="_blank"> <img src="images/android-icon.svg" alt=""  height="20px"> Google for Developers</a>
+	</li>
 </ul>
 
 ---
